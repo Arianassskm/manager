@@ -1,0 +1,8 @@
+{
+    "require": {
+        "endroid/qr-code": "^3.9",
+        "react/http": "^1.11",
+        "react/socket": "^1.16",
+        "amphp/file": "^2.0"
+    }
+}

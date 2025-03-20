@@ -1,0 +1,82 @@
+
+		
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('https://api.lovestory.wiki/assets/img/1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed
+}
+
+@media (max-width:768px) {
+    body {
+        background-image: url('https://lovestory.wiki/api/pd/mobile/5e0461d7e7bce75ea7b318a6.jpg')
+    }
+}
+
+
+.body1 p {
+    font-size: 24px;
+    font-weight: bold;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, #009fca,#fc5948,#313862);
+}
+
+.body1 a {
+    font-size: 12px;
+    font-weight: bold;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, #8ed5e6, #f499be, #b3e2ff)
+}
+
+.counter {
+    font-size: 8px
+}
+
+.json_note {
+    color: #004CFF;
+    font-weight: bold
+}
+
+.json_key {
+    color: #92278f;
+    font-weight: bold
+}
+
+.json_null {
+    color: #f1592a;
+    font-weight: bold
+}
+
+.json_string {
+    color: #3ab54a;
+    font-weight: bold
+}
+
+.json_number {
+    color: #25aae2;
+    font-weight: bold
+}
+
+.json_link {
+    color: #717171;
+    font-weight: bold
+}
+
+.body .price {
+    font-weight: bold;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, #e3a2fb, #f39191, #f245d2)
+}
+
+.123 {
+    font-size: 24px;
+    font-weight: bold;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(90deg, #03d4b4, #1b64bc)
+}

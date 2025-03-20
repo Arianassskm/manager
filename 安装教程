@@ -1,0 +1,14 @@
+环境:
+php ≥8.0 (实测8.2)
+mysql 5.6
+redis 随便
+
+扩展:
+php-redis imagick gd(宝塔装完php会自行安装) 图像处理库是为了部分接口的正常运行
+安装完访问 你的域名/install进行安装程序 安装完程序记得删除install文件夹 防止系统被黑客入侵
+如果安装不了请将install文件夹内的sql文件执行导入到数据库
+
+后台:
+你的域名/hanzi
+默认账号admin 
+默认密码xbsg2004
